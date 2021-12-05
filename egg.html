@@ -17,7 +17,7 @@ function leftTimer(year,month,day,hour,minute,second){
   minutes = checkTime(minutes); 
   seconds = checkTime(seconds); 
   // 这里的时间就是时间起始点，可以按照格式修改
-  setInterval("leftTimer(2021,10,30,12,10,0)",1000); 
+  setInterval("leftTimer(2021,10,31,12,10,0)",1000); 
   document.getElementById("timer").innerHTML = days+"天" + hours+"小时" + minutes+"分"+seconds+"秒（第"+weeks+"周）";  
 } 
 function checkTime(i){ //将0-9的数字前面加上0，例1变为01 
