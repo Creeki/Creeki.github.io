@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>我看生信</title>
+      <link href="/post/details/0004/"/>
+      <url>/post/details/0004/</url>
+      
+        <content type="html"><![CDATA[<p>时隔两年，今天再一次聊聊这个话题，相信会有不同的感受。</p><span id="more"></span><p>生物信息学是一门学科，经过近十几年的发展，已经成为一门较为完备的学科，有自成体系的方法。</p><p>总的来说，生信的方法可以分为两类：一类是流程化的、封装好的、有操作界面的，只需要点点点就好的，比如各种云分析平台，还有著名的MEGA、TBtools；一类是通过命令行交互的，也就是需要敲代码的。不妨把前者称为界面型，后者成为命令行型。</p><p>两年前，我为生信的门槛低而感到担忧，因为门槛意味着护城河，意味着核心竞争力。分子实验需要各式各样的仪器设备，离心机、超净台、通风橱、移液枪、烘箱、灭菌锅、培养箱、PCR仪、制水机、显微镜……这些数不清的价值高昂的仪器设备，光是学会操做都需要不少时间，价值高、耗时，就是分子实验的门槛，前者体现单位的核心竞争力，后者体现个人的核心竞争力。而生信呢，所有的操作只需要一套键鼠就可以完成，甚至连鼠标都可以不用。学习敲键盘，需要多长时间呢，有谁不会敲呢？我做过最复杂繁琐的事情，就是骑电瓶车到机房，拨通管理员电话，请他开启机房的门，然后在一排排服务器里找到自己课题组的那台，按一下电源键，过一会儿再按一下，然后锁好门，向管理员汇报。这一套复杂的操作，他们一般称之为“重启一下”。如此看来生信的门槛似乎是低到没有的。</p><p>但是生信真的没有门槛吗，不是的。基因家族分析，是生信领域最简单的研究方向之一了，再直白点，就是最容易水文章的方向，没错，就是我现在在做的这个方向。可是如果连“家族”是什么都不清楚的话，是没有办法开展研究的，两年前的我就是这种状态，虽然有四年的本科生物学背景，却连“家族”都不知道，一度不知道该如何下手。所以如果想做生信分析的话，需要具备一些基础知识，“基因的结构”、“基因组序列”和“基因序列”这些概念即使不能准确记诵，也应该能用自己的话说出来它们的区别，至少见到的时候不查资料就知道它们是有区别的，如果连这一点都做不到，要么应该回去补这类知识，要么应该放弃，还没学会走的时候不应该奔跑。做分子实验应该也是类似的，以跑电泳为例，电压设置多少伏，上游接正极还是负极，这些问题我没法一下子答上来的，我应该要么在实验前就搞清楚这些问题，要么就放弃做分子实验。术业有专攻。</p><p>互联网如此发达的今天，知识太容易获取了，知识的门槛算不了什么门槛，我所学的大多数生信知识都是从网上获取的（这里没有说“全部”，是因为我不能忽略我导师的贡献）。那么我们生信专业的童鞋竞争力在哪里呢？在于脑子，用脑子做那些尚未界面化的东西，把尚未界面化东西界面化，降低它们的使用门槛，而不在于熟练地用鼠标点点点那些界面上的按钮，不然就对不起生信专业的身份了。不是看不起那些界面型的东西，而是说比起怎么用那些软件，我更感兴趣的是那些软件怎做出来的。如果把生信比作汽车，界面型的方法就好比汽车驾驶技术，比较简单，适用于大众，命令行型的方法就像是汽车制造技术。如果你问一个汽车制造工程师怎么操作一款他没见过的车型，他如果不会，是应该被宽宥的。不不不，我不是“汽车工程师”，以我的水平，说自己是生产汽车的，这实在吹牛，我充其量就是个造轮胎的。</p><p>如果你问我，你的软件怎么用，我可能真的不会，不是藏着掖着，我没有那么小气。如果你问我，怎么做生信分析，拜托，你知道自己在问什么吗？</p><p>作为生信人，能帮到大家很开心，说庸俗点，发文章不挂我名也ok，致谢都没有也ok，但是希望大家能够知人善用，更好地更大地发挥生信人的作用，不要问一些奇奇怪怪的问题，请我帮一些奇奇怪怪的忙了。</p><p>嗯，可能过一段时间我会写一份《生信人使用手册》。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+            <tag> 2020 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>怀旧游戏《红色警戒2：共和国之辉》</title>
+      <link href="/post/details/0003/"/>
+      <url>/post/details/0003/</url>
+      
+        <content type="html"><![CDATA[<div style="display:none;"><img src="\images\thumbnail.png" alt=""></div><blockquote><p>《红色警戒2：共和国之辉》是即时战略游戏《红色警戒2》的一个非官方游戏模组（MOD），由中国爱好者 Lord Hero 制作，将古巴阵营从游戏中剔除，以中国阵营替代，并新增了解放军战士、轻坦克、训练中心等中国阵营特有的兵种及建筑。</p></blockquote><span id="more"></span><div align=center><p><img src="/images/post/red_alert_2.jpg"></p><p>《红色警戒2：共和国之辉》</p><div align=left><h1 id="1-游戏信息"><a href="#1-游戏信息" class="headerlink" title="1. 游戏信息"></a>1. 游戏信息</h1><table><thead><tr><th align="right"><!-- --></th><th align="left"><!-- --></th><th align="right"><!-- --></th><th align="left"><!-- --></th></tr></thead><tbody><tr><td align="right">中文名</td><td align="left">红色警戒2：共和国之辉</td><td align="right">开发商</td><td align="left">Westwood公司</td></tr><tr><td align="right">原版名称</td><td align="left">Red Alert 2</td><td align="right">发行日期</td><td align="left">2001年</td></tr><tr><td align="right">游戏类型</td><td align="left">即时战略</td><td align="right">制作人</td><td align="left">Lord Hero</td></tr><tr><td align="right">内容主题</td><td align="left">战争</td><td align="right">游戏平台</td><td align="left">PC</td></tr><tr><td align="right">玩家人数</td><td align="left">2 到 8 人</td><td align="right">游戏画面</td><td align="left">2D</td></tr></tbody></table><h1 id="2-下载地址"><a href="#2-下载地址" class="headerlink" title="2. 下载地址"></a>2. 下载地址</h1><p><a href="https://pan.baidu.com/s/1YWrcQ8qrethEGhV24Z7rGQ">百度网盘</a> 提取码: <code>xrqt</code><br>阿里云网盘(暂不支持)</p><h1 id="3-安装说明"><a href="#3-安装说明" class="headerlink" title="3. 安装说明"></a>3. 安装说明</h1><h2 id="3-1-基本设置"><a href="#3-1-基本设置" class="headerlink" title="3.1. 基本设置"></a>3.1. 基本设置</h2><blockquote><p>提示：操作之前，建议修改系统设置，显示文件扩展名。</p></blockquote><ol><li><p>解压下载的文件到任意位置，包含 <code>GHra2.rar</code>、<code>ddraw.zip</code>、<code>ipxwrapper-0.6.1.zip</code> 三个压缩包。  </p></li><li><p>解压主程序文件 <code>GHra2.ra</code>r 到系统的一个目录下，<strong>注意不要使用包含中文的路径</strong>。比如，我的最终目录为 <code>C:\game\GHra2</code>  </p></li><li><p>解决游戏卡顿问题</p></li></ol><ul><li>解压 <code>ddraw.zip</code> 得到 <code>ddraw.dll</code>，拷贝到游戏根目录下；</li><li>找到游戏根目录下的 <code>Ra2.ini</code> 文件，右键选择编辑打开，然后把 <code>[Video</code> 部分全部替换为以下内容：<figure class="highlight json"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="punctuation">[</span>Video<span class="punctuation">]</span></span><br><span class="line">VideoBackBuffer=no</span><br><span class="line">AllowHiResModes=yes</span><br><span class="line">AllowVRAMSidebar=no</span><br><span class="line">ScreenWidth=<span class="number">1024</span></span><br><span class="line">ScreenHeight=<span class="number">768</span></span><br><span class="line">StretchMovies=no</span><br></pre></td></tr></table></figure></li></ul><ol start="4"><li>兼容性设置（这里以 <code>Windows 7</code> 系统为例）<br>在 <code>ra2.ex</code>e 文件上右键单击，依次选择「属性」 &gt; 「兼容性」：</li></ol><ul><li>勾选<strong>以兼容模式运行这个程序</strong>，并选择<strong>Windows XP（Service Pack 3）</strong>；</li><li>勾选<strong>以管理员身份运行此程序</strong>。</li><li>双击 <code>ra2.exe</code> 启动游戏。因为绿色免安装版，如果启动游戏没反应，可重试两次；如果还是不行，则先双击运行游戏根目录下的 <code>RegSetup.exe</code> 文件，并根据提示完成安装以修复注册表，然后再打开游戏。</li></ul><p>3.2. 局域网对战设置<br>由于该游戏在局域网对战时使用的 <code>IPX</code> 网络协议在高版本系统中已经被抛弃，所以我们需要使用一个工具 <code>IPXWrapper</code> 进行模拟。</p><p>1.解压 <code>ipxwrapper-0.6.1.zip</code> 到任意目录下，并把所有文件拷贝到游戏根目录下，具体安装说明详见 <a href="https://sqiang.net/post/438064550.html">借助 IPXWrapper 解决基于 <code>IPX</code> 协议的旧游戏局域网联机问题</a> 。</p><p>2.启动游戏后，依次选择菜单「选项」 &gt; 「网络」，并做如下修改：</p><ul><li><strong>网卡</strong>：选择连接网络使用的网卡（注意，下拉框里显示的是网卡的 mac 地址）；</li><li><strong>Socket</strong> 号码：设置为 <code>0</code></li><li><strong>目标网络</strong>：设置为 <code>00.00.00.00</code></li></ul><p><strong>注意</strong>：此处的设置，所有准备联网对战的机器需要<strong>保持一致</strong>，否则也会找不到。</p><p>返回主菜单，单击「网络」，修改你自己的游戏玩家名称，最后创建或参与游戏。</p><blockquote><p>本文作者： whoru.S.Q<br>本文转载自： <a href="https://sqiang.net/post/3045142832.html">https://sqiang.net/post/3045142832.html</a><br>版权声明： 本文章采用 <strong><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">BY-NC-SA</a></strong> 许可协议，转载请注明出处！</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 游戏 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 游戏 </tag>
+            
+            <tag> 红色警戒2 </tag>
+            
+            <tag> 2022 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo-速查</title>
+      <link href="/post/details/0002/"/>
+      <url>/post/details/0002/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>超过一个月没有使用hexo了，今天再登录时，忘记怎么用了……</p></blockquote><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br><span class="line">$ hexo g</span><br><span class="line">$ hexo s</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure><span id="more"></span><p>以下摘自<a href="https://hexo.io/zh-cn/docs/index.html">Hexo中文文档</a>。</p><h1 id="新建页面"><a href="#新建页面" class="headerlink" title="新建页面"></a>新建页面</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new [layout] &lt;title&gt;</span><br></pre></td></tr></table></figure><p>  默认的布局（layout）是post。</p><p><code>Hexo </code>附带三种布局：<code>post</code>、<code>page</code> 和 <code>draft</code>。在创建这三种不同类型的文件时，它们将会被保存到不同的路径；自定义的其他布局和 <code>post</code> 相同，都将储存到 <code>source/_posts</code> 文件夹。</p><h1 id="草稿"><a href="#草稿" class="headerlink" title="草稿"></a>草稿</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo publish [layout] &lt;title&gt;  </span><br></pre></td></tr></table></figure><p><code>draft</code>这种布局在建立时会被保存到 <code>source/_drafts</code> 文件夹，您可通过 <code>publish</code> 命令将草稿移动到 <code>source/_posts</code> 文件夹，该命令的使用方式与 <code>new</code> 十分类似，您也可在命令中指定 <code>layout</code> 来指定布局。</p><p>草稿默认不会显示在页面中，您可在执行时加上 <code>--draft</code> 参数，或是把 <code>render_drafts</code> 参数设为 true 来预览草稿。</p><h1 id="清除缓存"><a href="#清除缓存" class="headerlink" title="清除缓存"></a>清除缓存</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo clean</span><br></pre></td></tr></table></figure><h1 id="生成器"><a href="#生成器" class="headerlink" title="生成器"></a>生成器</h1><p>以下两行命令作用是相同的。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br><span class="line">$ hexo g</span><br></pre></td></tr></table></figure><h1 id="启动服务器"><a href="#启动服务器" class="headerlink" title="启动服务器"></a>启动服务器</h1><p>输入以下命令以启动服务器，您的网站会在 <code>http://localhost:4000</code> 下启动。在服务器启动期间，Hexo 会监视文件变动并自动更新，您<strong>无须重启服务器</strong>。</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><h1 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br><span class="line">$ hexo d</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>my-first-post</title>
+      <link href="/post/details/0001/"/>
+      <url>/post/details/0001/</url>
+      
+        <content type="html"><![CDATA[<h1 id="起始"><a href="#起始" class="headerlink" title="起始"></a>起始</h1><p>你好~</p><p>大概三年前，18年4月27日那天，我在github.com上创建了一个名为creeki.github.io的仓库。长期以来它都是空的。终于在今天（确切地说是昨天，因为已经过了0点了），我安装了Hexo并且在Github上部署了博客。</p><p>恭喜我自己，<br>并祝自己生日快乐！</p><p>Creeki<br>2021年4月20（21）日于办公室</p><h1 id="start"><a href="#start" class="headerlink" title="start"></a>start</h1><p>Hey, here~</p><p>About 3 years ago, that was on Apr. 27, 2018, I built the creeki.github.io repository on github.com. It keeps empty for a long time. And finally, today( yesterday, for more precisely), I installed Hexo and deploy my blog on Github.</p><p>Congratulations to myself.<br>And Happy Birthday!</p><p>Creeki<br>On Apr. 20(21), 2021</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+            <tag> 2020 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/post/details/0000/"/>
+      <url>/post/details/0000/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
